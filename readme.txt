@@ -10,5 +10,6 @@ gir add .
 git add .
 git status
 git log
+git comments readme
 
 >>>>>>> 5eb581a (second commit)
